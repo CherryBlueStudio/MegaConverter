@@ -2,7 +2,7 @@
 A multi unit converter
 
 ## Installation
-Download the code package and run the MegaConverter.exe file
+Download the code ZIP and run the MegaConverter.exe file
 
 ## Usage
 
